@@ -1,0 +1,397 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.13)  14 NOV 2018 13:31
+entering extended mode
+**./tex1.tex
+(tex1.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\HP\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen105
+\enit@toks=\toks17
+\enit@inbox=\box26
+\enitdp@description=\count88
+)
+\c@stepsi=\count89
+\enitdp@steps=\count90
+
+(tex1.aux)
+\openout1 = `tex1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Users\HP\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen106
+\scratchbox=\box27
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen107
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--27
+
+ []
+
+<partison1.png, id=1, 1371.1225pt x 770.88pt>
+File: partison1.png Graphic file (type png)
+<use partison1.png>
+Package pdftex.def Info: partison1.png  used on input line 29.
+(pdftex.def)             Requested size: 274.21964pt x 154.17326pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+<PARTISON2.png, id=2, 1371.1225pt x 770.88pt>
+File: PARTISON2.png Graphic file (type png)
+<use PARTISON2.png>
+Package pdftex.def Info: PARTISON2.png  used on input line 34.
+(pdftex.def)             Requested size: 274.21964pt x 154.17326pt.
+[1
+
+{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./partison1.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+<pass.PNG, id=12, 454.69875pt x 231.86626pt>
+File: pass.PNG Graphic file (type png)
+<use pass.PNG>
+Package pdftex.def Info: pass.PNG  used on input line 53.
+(pdftex.def)             Requested size: 454.69763pt x 231.86568pt.
+
+Overfull \hbox (134.69766pt too wide) in paragraph at lines 53--54
+ [] 
+ []
+
+[2 <./PARTISON2.png>] [3 <./pass.PNG>]
+<partison3.PNG, id=21, 454.69875pt x 173.14688pt>
+File: partison3.PNG Graphic file (type png)
+<use partison3.PNG>
+Package pdftex.def Info: partison3.PNG  used on input line 55.
+(pdftex.def)             Requested size: 454.69763pt x 173.14645pt.
+
+Overfull \hbox (134.69766pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+[4 <./partison3.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+<sticky2.png, id=26, 1371.1225pt x 770.88pt>
+File: sticky2.png Graphic file (type png)
+<use sticky2.png>
+Package pdftex.def Info: sticky2.png  used on input line 70.
+(pdftex.def)             Requested size: 274.21964pt x 154.17326pt.
+<sticky3.png, id=27, 1371.1225pt x 770.88pt>
+File: sticky3.png Graphic file (type png)
+<use sticky3.png>
+Package pdftex.def Info: sticky3.png  used on input line 71.
+(pdftex.def)             Requested size: 274.21964pt x 154.17326pt.
+[5 <./sticky2.png> <./sticky3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+<cron1.PNG, id=31, 458.46281pt x 200.24812pt>
+File: cron1.PNG Graphic file (type png)
+<use cron1.PNG>
+Package pdftex.def Info: cron1.PNG  used on input line 82.
+(pdftex.def)             Requested size: 458.46169pt x 200.24763pt.
+
+Overfull \hbox (113.46169pt too wide) in paragraph at lines 82--83
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+<cron2.PNG, id=32, 453.94594pt x 128.73094pt>
+File: cron2.PNG Graphic file (type png)
+<use cron2.PNG>
+Package pdftex.def Info: cron2.PNG  used on input line 86.
+(pdftex.def)             Requested size: 453.94482pt x 128.7306pt.
+
+Overfull \hbox (108.94482pt too wide) in paragraph at lines 86--87
+ [] 
+ []
+
+[6 <./cron1.PNG> <./cron2.PNG>]
+Overfull \hbox (1.68129pt too wide) in paragraph at lines 89--89
+[]\OT1/cmr/bx/n/14.4 Write a cron job to re-motely shut-down a Linux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+File: cron1.PNG Graphic file (type png)
+<use cron1.PNG>
+Package pdftex.def Info: cron1.PNG  used on input line 97.
+(pdftex.def)             Requested size: 458.46169pt x 200.24763pt.
+
+Overfull \hbox (113.46169pt too wide) in paragraph at lines 97--98
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+<cron3.PNG, id=38, 426.84468pt x 223.58531pt>
+File: cron3.PNG Graphic file (type png)
+<use cron3.PNG>
+Package pdftex.def Info: cron3.PNG  used on input line 101.
+(pdftex.def)             Requested size: 426.84364pt x 223.58475pt.
+
+Overfull \hbox (81.84364pt too wide) in paragraph at lines 101--102
+ [] 
+ []
+
+[7] [8 <./cron3.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--113
+
+ []
+
+<git1.png, id=47, 1028.34187pt x 578.16pt>
+File: git1.png Graphic file (type png)
+<use git1.png>
+Package pdftex.def Info: git1.png  used on input line 114.
+(pdftex.def)             Requested size: 205.66473pt x 115.62994pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+<git2.png, id=48, 355.3275pt x 77.53969pt>
+File: git2.png Graphic file (type png)
+<use git2.png>
+Package pdftex.def Info: git2.png  used on input line 118.
+(pdftex.def)             Requested size: 355.32661pt x 77.53947pt.
+
+Overfull \hbox (10.32661pt too wide) in paragraph at lines 118--119
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+<git3.png, id=49, 405.01312pt x 99.37125pt>
+File: git3.png Graphic file (type png)
+<use git3.png>
+Package pdftex.def Info: git3.png  used on input line 122.
+(pdftex.def)             Requested size: 405.01212pt x 99.371pt.
+
+Overfull \hbox (60.01212pt too wide) in paragraph at lines 122--123
+ [] 
+ []
+
+[9 <./git1.png> <./git2.png> <./git3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<git4.png, id=55, 299.61937pt x 309.40594pt>
+File: git4.png Graphic file (type png)
+<use git4.png>
+Package pdftex.def Info: git4.png  used on input line 127.
+(pdftex.def)             Requested size: 299.61864pt x 309.40518pt.
+[10 <./git4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<git5.png, id=60, 435.87843pt x 50.43843pt>
+File: git5.png Graphic file (type png)
+<use git5.png>
+Package pdftex.def Info: git5.png  used on input line 132.
+(pdftex.def)             Requested size: 435.87737pt x 50.4383pt.
+
+Overfull \hbox (90.87737pt too wide) in paragraph at lines 132--133
+ [] 
+ []
+
+[11 <./git5.png>] (tex1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1801 strings out of 492969
+ 26296 string characters out of 3135855
+ 89047 words of memory out of 3000000
+ 5664 multiletter control sequences out of 15000+200000
+ 7588 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,273b,300s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on tex1.pdf (11 pages, 1858570 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
